@@ -1,4 +1,4 @@
-# 2018 System Software Lab Seminar
+# 2018 System Software Lab Seminar (2018_SEMINA)
 
 ## Seminar list
 
