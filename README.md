@@ -10,6 +10,7 @@
 | 04 |     2018-03-27 |오픈소스와 라이선스|이건희|[link](https://github.com/KITSSL/2018_SEMINA/blob/master/src/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%99%80%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4.pdf)|
 | 05 |     2018-04-03 |번호표 예약 시스템 |임한솔|[link](https://github.com/KITSSL/2018_SEMINA/blob/master/src/2018_04_05_%EC%9E%84%ED%95%9C%EC%86%94_%EC%84%B8%EB%AF%B8%EB%82%98.pptx)|
 | 06 |     2018-04-10 |자율 주행 자동차 : 차선 인식|김정호|           |
+| 07 |     2018-04-17 |자율 주행 자동차 : 차선 인식(수정)|김정호|           |
 
 
 ## Note
