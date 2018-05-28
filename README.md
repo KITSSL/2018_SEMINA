@@ -14,7 +14,7 @@
 | 08 |     2018-05-01 | <title> |박성훈| |
 | 08 |     2018-05-01 | 2017 임베디드 경진대회 개발 관련|정현석|[link](https://github.com/KITSSL/2018_SEMINA/blob/master/src/20180508_2017%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B0%9C%EB%B0%9C.pptx)|
 | 09 |     2018-05-15 |영상처리 직선검출|추교준|[link](https://github.com/KITSSL/2018_SEMINA/blob/master/src/5%EC%9B%94%2015%EC%9D%BC%20%EC%98%81%EC%83%81%EC%A7%81%EC%84%A0%EA%B2%80%EC%B6%9C%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)|
-| 10 |     2018-05-29 |웹 서버 라이브러리 만들기|이건희| |
+| 10 |     2018-05-29 |웹 서버(Web Server) |이건희|[link](./src/웹 서버(Web Server).pdf) |
 
 ## Note
 
