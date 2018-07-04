@@ -17,6 +17,7 @@
 | 11 |2018-05-29|웹 서버(Web Server) |이건희|[link](./src/%EC%9B%B9%20%EC%84%9C%EB%B2%84(Web%20Server).pdf) |
 | 12 |2018-06-05|FireBase 앱 |임한솔|[link](./src/2018_06_05_%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B0%B0%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9D%B4%EC%9A%A9%ED%95%9C%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%95%B1.pptx) |
 | 13 |2018-06-27|더 좋은 코드짜기 |김정호|[link](./src/0627%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf) |
+| 14 |2018-07-04|Elixir & Pheonix Framework|박성훈||
 
 ## Note
 
