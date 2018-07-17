@@ -18,6 +18,8 @@
 | 12 |2018-06-05|FireBase 앱 |임한솔|[link](./src/2018_06_05_%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B0%B0%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9D%B4%EC%9A%A9%ED%95%9C%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%95%B1.pptx) |
 | 13 |2018-06-27|더 좋은 코드짜기 |김정호|[link](./src/0627%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf) |
 | 14 |2018-07-04|Elixir & Pheonix Framework|박성훈||
+| 15 |2018-07-11| 팬윅 트리 알고리즘 |추교준||
+| 16 |2018-07-18| React.js |이건희|link|
 
 ## Note
 
