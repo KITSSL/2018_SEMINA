@@ -22,10 +22,11 @@
 | 16 |2018-07-18| React.js |이건희|[link](./src/reactjs.pdf)|
 | 17 |2018-07-25| Restful API |임한솔|[link](./src/2018_07_24_Restfull%20API.pptx)|
 | 18 |2018-08-01| Modern C |김정호|[link](https://github.com/KITSSL/2018_SEMINA/blob/97355dd3abaf60dd18ab9857d791024067d79d86/src/0801%20%EC%84%B8%EB%AF%B8%EB%82%98.pptx)|
+| 19 |2018-08-08| 강화학습 |박성훈||
 
 
 ## Note
 
 - 5월 22일은 공휴일 이므로 세미나 없음
 - 6월 12/19 세미나 없음
--
+- 8월 15일 광복절 (세미나 없음 / 2학기 이후 시작)
