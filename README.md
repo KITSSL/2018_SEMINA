@@ -23,6 +23,11 @@
 | 17 |2018-07-25| Restful API |임한솔|[link](./src/2018_07_24_Restfull%20API.pptx)|
 | 18 |2018-08-01| Modern C |김정호|[link](https://github.com/KITSSL/2018_SEMINA/blob/97355dd3abaf60dd18ab9857d791024067d79d86/src/0801%20%EC%84%B8%EB%AF%B8%EB%82%98.pptx)|
 | 19 |2018-08-08| 강화학습 |박성훈||
+| 21 | | | |
+| 22 | | | |
+| 23 | | | |
+| 24 | | | |
+
 
 
 ## Note
