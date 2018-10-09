@@ -23,7 +23,7 @@
 | 17 |2018-07-25| Restful API |임한솔|[link](./src/2018_07_24_Restfull%20API.pptx)|
 | 18 |2018-08-01| Modern C |김정호|[link](https://github.com/KITSSL/2018_SEMINA/blob/97355dd3abaf60dd18ab9857d791024067d79d86/src/0801%20%EC%84%B8%EB%AF%B8%EB%82%98.pptx)|
 | 19 |2018-08-08| 강화학습 |박성훈||
-| 21 |2018-09-06| |추교준 ||
+| 21 |2018-09-06| Python Web Crawling|추교준 |[link](./src/180906%20Web%20Scraping%20%EC%84%B8%EB%AF%B8%EB%82%98.pptx)|
 | 22 |2018-09-13| |김정호 ||
 | 23 |2018-09-20| Python을 이용한 테스트 및 배키지 배포|이건희 |[link](./src/Python을%20이용한%20패키지%20테스트%20및%20배포.pdf)|
 | 24 |2018-09-27| |박성훈||
