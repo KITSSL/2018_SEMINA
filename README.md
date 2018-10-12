@@ -24,7 +24,7 @@
 | 18 |2018-08-01| Modern C |김정호|[link](https://github.com/KITSSL/2018_SEMINA/blob/5d1bf9aae354946eccb79726e4966f68d8265a49/src/0801%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)|
 | 19 |2018-08-08| 강화학습 |박성훈||
 | 21 |2018-09-06| Python Web Crawling|추교준 |[link](./src/180906%20Web%20Scraping%20%EC%84%B8%EB%AF%B8%EB%82%98.pptx)|
-| 22 |2018-09-13| |김정호 |[link](https://github.com/KITSSL/2018_SEMINA/blob/079b9bb58babc1ddd2203b2d85464a1d5388037d/src/0913%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)|
+| 22 |2018-09-13| 자바스크립트 작동원리 |김정호|[link](https://github.com/KITSSL/2018_SEMINA/blob/079b9bb58babc1ddd2203b2d85464a1d5388037d/src/0913%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)|
 | 23 |2018-09-20| Python을 이용한 테스트 및 배키지 배포|이건희 |[link](./src/Python을%20이용한%20패키지%20테스트%20및%20배포.pdf)|
 | 24 |2018-09-27| |박성훈||
 | 25 |2018-10-04| Vue.js |임한솔|[link](./src/2018_10_03_Vuejs.pptx)|
