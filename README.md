@@ -30,6 +30,7 @@
 | 25 |2018-10-04| Vue.js |임한솔|[link](./src/2018_10_03_Vuejs.pptx)|
 | 26 |2018-10-11| Elastic 및 대기업 취업 동향 |정현석||
 | 27 |2018-10-25| Windows STL |박희망|[link](https://github.com/KITSSL/2018_SEMINA/blob/master/C%2B%2B%20STL%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.show)|
+| 28 |2018-11-08| Effective C++ |황일용||
 
 
 ## Note
